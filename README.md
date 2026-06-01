@@ -1,6 +1,7 @@
 # music_gnh
 
 A new Flutter project.
+daily progres 1
 
 ## Getting Started
 
