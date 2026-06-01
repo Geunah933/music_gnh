@@ -2,6 +2,7 @@
 
 A new Flutter project.
 daily progres 1
+daily progres 2
 
 ## Getting Started
 
